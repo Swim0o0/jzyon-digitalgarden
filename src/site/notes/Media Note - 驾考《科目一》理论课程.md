@@ -17,7 +17,7 @@
 Q：有了驾驶证是不是摩托车、汽车、卡车等任何种类的车辆都可以开呢？
 
 A：不能。
-- ![1.jpeg|50](https://lsky.jzyon.top/uplods/1.jpeg)[06:11](https://www.bilibili.com/video/BV1ac411q76D/?t=371.852968#t=06:11.85) 、![2.jpeg|50](https://lsky.jzyon.top/uplods/2.jpeg)00:45](https://www.bilibili.com/video/BV1ac411q76D/?t=45.297895#t=45.30) 必须取得**相应的**准驾车型驾驶资格并在有效期内才能驾驶相应的机动车
+- ![1.jpeg|50](https://lsky.jzyon.top/uplods/1.jpeg)、![2.jpeg|50](https://lsky.jzyon.top/uplods/2.jpeg)必须取得**相应的**准驾车型驾驶资格并在有效期内才能驾驶相应的机动车
 
 1、驾驶证种类（17种）
 
@@ -43,7 +43,7 @@ A：不能。
 
 2、驾驶证有效期
 
-- ![3.jpeg|50](https://lsky.jzyon.top/uplods/3.jpeg)[05:40](https://www.bilibili.com/video/BV1ac411q76D/?t=340.475985#t=05:40.48) 分为**6年、10年和长期**三种。**初次申请的机动车驾驶证有效期为6年**。
+- ![3.jpeg|50](https://lsky.jzyon.top/uplods/3.jpeg)分为**6年、10年和长期**三种。**初次申请的机动车驾驶证有效期为6年**。
 
 # 二、机动车驾驶证申请
 
@@ -62,7 +62,7 @@ A：不能。
 
 TL;DR：通过驾照体检
 
-- ![4.jpeg|50](https://lsky.jzyon.top/uplods/4.jpeg)[03:21](https://www.bilibili.com/video/BV1ac411q76D/?t=201.245825#t=03:21.25) 、 ![5.jpeg|50](https://lsky.jzyon.top/uplods/5.jpeg)[03:26](https://www.bilibili.com/video/BV1ac411q76D/?t=206.26156#t=03:26.26) 、 [03:49](https://www.bilibili.com/video/BV1ac411q76D/?t=229.736789#t=03:49.74) 视力要求
+- ![4.jpeg|50](https://lsky.jzyon.top/uplods/4.jpeg)、![5.jpeg|50](https://lsky.jzyon.top/uplods/5.jpeg)视力要求
 - 不能是红绿色盲
 
 3、不得申请驾驶证的情形
@@ -76,7 +76,7 @@ TL;DR：通过驾照体检
 
 ## （二）初次申领驾驶证类别
 
-- ![6.jpeg|50](https://lsky.jzyon.top/uplods/6.jpeg)[00:53](https://www.bilibili.com/video/BV1ac411q76D/?t=53.362072#t=53.36) 可申请A3、B2、C1、C2、C3、C4、C5、C6、D、E、F、M、N、P
+- ![6.jpeg|50](https://lsky.jzyon.top/uplods/6.jpeg)可申请A3、B2、C1、C2、C3、C4、C5、C6、D、E、F、M、N、P
 
 >[!summary] 总结
 >就是只有**A1、A2、B1**照是不能初次申请的。其余照都可以一上来就申请。
@@ -101,12 +101,12 @@ TL;DR：通过驾照体检
 
 ## （一）驾驶考试内容和合格标准
 
-1、考试流程：![7.jpeg|50](https://lsky.jzyon.top/uplods/7.jpeg)[00:23](https://www.bilibili.com/video/BV1ac411q76D/?t=23.325208#t=23.33) 
+1、考试流程：![7.jpeg|50](https://lsky.jzyon.top/uplods/7.jpeg)
 
 2、考试内容：
-- 科目一、二、三![8.jpeg|50](https://lsky.jzyon.top/uplods/8.jpeg)[00:43](https://www.bilibili.com/video/BV1ac411q76D/?t=43.533771#t=43.53) 
-	- 科目一：考试内容![9.jpeg|50](https://lsky.jzyon.top/uplods/9.jpeg)[01:04](https://www.bilibili.com/video/BV1ac411q76D/?t=64.132263#t=01:04.13) ，上机闭卷考试，考试时间45min，满分100分，90分合格。
-	- 科目二：C1、C3照考试内容![10.jpeg|50](https://lsky.jzyon.top/uplods/10.jpeg)[01:42](https://www.bilibili.com/video/BV1ac411q76D/?t=102.239181#t=01:42.24) ，满分100分，80分合格；C2、C5照考试内容![11.jpeg|50](https://lsky.jzyon.top/uplods/11.jpeg)[03:57](https://www.bilibili.com/video/BV1ac411q76D/?t=237.281991#t=03:57.28) 
-	- 科目三：分道路驾驶技能考试（*简称“路考”*）和安全文明驾驶常识理论考试。路考考试内容![12.jpeg|50](https://lsky.jzyon.top/uplods/12.jpeg)[05:58](https://www.bilibili.com/video/BV1ac411q76D/?t=358.508947#t=05:58.51) ，C1、C2、C3、C5路考考试里程不小于3公里，满分100分，90分合格；安全文明驾驶常识考试内容![13.jpeg|50](https://lsky.jzyon.top/uplods/13.jpeg)[07:28](https://www.bilibili.com/video/BV1ac411q76D/?t=448.599985#t=07:28.60) ，考试时间45min，满分100分，90分合格
+- 科目一、二、三![8.jpeg|50](https://lsky.jzyon.top/uplods/8.jpeg)
+	- 科目一：考试内容![9.jpeg|50](https://lsky.jzyon.top/uplods/9.jpeg) ，上机闭卷考试，考试时间45min，满分100分，90分合格。
+	- 科目二：C1、C3照考试内容![10.jpeg|50](https://lsky.jzyon.top/uplods/10.jpeg) ，满分100分，80分合格；C2、C5照考试内容![11.jpeg|50](https://lsky.jzyon.top/uplods/11.jpeg)
+	- 科目三：分道路驾驶技能考试（*简称“路考”*）和安全文明驾驶常识理论考试。路考考试内容![12.jpeg|50](https://lsky.jzyon.top/uplods/12.jpeg) ，C1、C2、C3、C5路考考试里程不小于3公里，满分100分，90分合格；安全文明驾驶常识考试内容![13.jpeg|50](https://lsky.jzyon.top/uplods/13.jpeg) ，考试时间45min，满分100分，90分合格
 
 [^1]: Q：驾照中说一个记分周期记满12分是什么意思？请用详细、生动的回答为我这个驾考小白解释一下。A：好的，让我们来聊聊驾照记分周期和记满12分的那些事儿。想象一下，你的驾照就像一张“交通行为信用卡”，每张卡都有一个“信用额度”，在驾照的世界里，这个额度就是12分。这12分代表了你在一年内可以“透支”的交通违规次数。这个“一年”就是我们说的记分周期，通常从你拿到驾照的那一天开始计算，为期12个月。现在，让我们来详细解释一下这12分：1. **分数代表什么**？这12分代表了你在一年内可以犯的交通违规的“额度”。每违反一次交通规则，根据违规的严重程度，你的分数就会相应减少。2. **扣分规则**：不同的违规行为会扣除不同数量的分数。比如，闯红灯可能会扣6分，而未系安全带可能只扣2分。3. **记满12分的含义**：如果在这12个月的记分周期内，你的违规行为累计扣分达到了12分，那么你就“记满”了。这意味着你的“交通行为信用卡”已经透支，你需要面对一些后果。4. **记满12分的后果**：一旦记满12分，你将不能继续驾驶机动车，你的驾照会被暂扣；你需要参加为期7天的道路交通安全法律、法规和相关知识的学习；学习结束后，你需要通过科目一（理论考试）的考试，才能重新获得驾驶资格。5. **记分周期的循环**：记分周期是循环的，每过12个月，你的分数会重置为12分，前提是你没有在上一个周期内被记满12分。6. **避免记满12分的小贴士**：遵守交通规则，这是避免扣分的最好方法；定期检查你的驾照分数，这样你可以知道自己还剩多少“额度”；如果你发现自己分数接近12分，那么在剩余的记分周期内就要格外小心驾驶。通过这样的比喻和解释，希望你能更清楚地理解驾照记分周期和记满12分的含义。记住，安全驾驶不仅仅是为了保住驾照分数，更是为了保护自己和他人的安全。祝你驾考顺利，安全上路！
